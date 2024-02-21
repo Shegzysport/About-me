@@ -6,7 +6,7 @@
 - 👀 I’m interested in Data science and Machine learning
 - 🌱 I’m currently learning Data Analysis with Dahel Techies
 - 💞️ I’m looking to collaborate with startup founders and business owners
-- 📫 How to reach me on  [Linkedin](https://www.linkedin.com/in/segun-fasuan-56a009247)
+- 📫 How to reach me on  [Linkedin](https://www.linkedin.com/in/oluwasegun-fasuan-56a009247)
 - I love communities.
 
   My Work Tools:
