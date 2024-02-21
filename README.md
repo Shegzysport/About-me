@@ -2,7 +2,7 @@
 # This is Fasuan Oluwasegun 
 ## Im a Data Analysis 
 
-- 👋 Hi, I’m @Shegzysport
+- 👋 Hi, I’m @Fasuan
 - 👀 I’m interested in Data science and Machine learning
 - 🌱 I’m currently learning Data Analysis with Dahel Techies
 - 💞️ I’m looking to collaborate with startup founders and business owners
